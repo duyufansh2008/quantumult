@@ -15,4 +15,5 @@
 ➡️4.开始配置
 
 🥳（1）导入一个节点倒入一个你自己的节点。因为quantumult没有资源解析器的时候，只能导入ss，ssr的节点，太tm拉垮了！
-给你推荐几个节点，（我也是白嫖的）
+给你推荐几个节点，（我也是白嫖的)图片地址：
+https://github.com/duyufansh2008/quantumult/blob/main/IMG_0937.PNG
