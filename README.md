@@ -47,3 +47,25 @@
 点击保存
 
 <img width="535" alt="截屏2022-05-27 09 29 32" src="https://user-images.githubusercontent.com/105097954/170610412-e7b4cf10-6ef4-4070-b18d-aa379d36fa5b.png">
+
+打开订阅
+
+<img width="533" alt="截屏2022-05-27 11 03 33" src="https://user-images.githubusercontent.com/105097954/170620768-2ea805f8-dc04-4f9d-b3ac-de15b88ddc43.png">
+
+点击更新
+
+<img width="539" alt="截屏2022-05-27 11 04 25" src="https://user-images.githubusercontent.com/105097954/170620868-89137840-0dc5-4cf0-89af-d4594e217b5a.png">
+
+如果这样就成功了！🥳🥳
+
+<img width="539" alt="截屏2022-05-27 11 05 24" src="https://user-images.githubusercontent.com/105097954/170620954-3df548c8-edb8-4a29-876f-7d13c6d62dab.png">
+
+你可以导入一些订阅节点了！🎉
+恭喜🎉🎉🎉
+
+➡️到此为止，你就可以正常使用quantumultx了。但是这样的quantumultx和小火箭一摸一样，所以下面的教程会让quantumultx发展出他的能力！！！
+
+➡️进阶1.添加策略。
+找到下载
+
+<img width="531" alt="截屏2022-05-27 11 08 42" src="https://user-images.githubusercontent.com/105097954/170621599-3a94abb5-204b-4ea5-b14a-4e4576bfabba.png">
