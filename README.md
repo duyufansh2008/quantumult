@@ -1,6 +1,13 @@
 # quantumult
 白嫖基地！！！quantumult脚本收录，以及从零开始配置，一步步教。
 
+
+⚠️⚠️⚠️提出好的建议加我微信，我会免费给你上百节点，或者大礼包！⚠️⚠️⚠️
+
+
+😁加我微信😁：13816632338，1元白嫖上百节点，Mac，Windows已激活软件，先到先得！（⚠️也有quantumult已购账号！⚠️）
+节点失效，遇到哪里不会的也可以加我微信。
+
 注意⚠️：这是一个把0基础的人带到大神的地方，内容收录于互联网。
 
 
@@ -14,11 +21,23 @@
 
 ➡️4.开始配置
 
-🥳（1）导入一个节点倒入一个你自己的节点。因为quantumult没有资源解析器的时候，只能导入ss，ssr的节点，太tm拉垮了！
-给你推荐几个节点，（我也是白嫖的)节点图片就是上面那几个。
-![](https://github.com/duyufansh2008/quantumult/blob/main/IMG_0937.PNG)
-![](https://github.com/duyufansh2008/quantumult/blob/main/IMG_0938.PNG)
-![](https://github.com/duyufansh2008/quantumult/blob/main/IMG_0939.PNG)
-![](https://github.com/duyufansh2008/quantumult/blob/main/IMG_0940.PNG)
-![](https://github.com/duyufansh2008/quantumult/blob/main/IMG_0941.PNG)
-![](https://github.com/duyufansh2008/quantumult/blob/main/IMG_0942.PNG)
+🥳（1）导入一个节点让后翻墙下载资源解析器。因为quantumult没有资源解析器的时候，只能导入ss，ssr的节点，太tm拉垮了！
+给你推荐几个节点，（我也是白嫖的)节点图片就是上面那几个照片文件。
+
+
+🥳（2）导入资源解析器，这样大部分!订阅就可以导入了！！！点开三菱
+<img width="748" alt="截屏2022-05-27 09 03 18" src="https://user-images.githubusercontent.com/105097954/170608043-85f4f721-59ed-45df-8fc5-42e38e158f6f.png">
+
+翻到最下面点开编辑
+
+![截屏2022-05-27 09 05 13](https://user-images.githubusercontent.com/105097954/170608186-9e20f0d4-81d4-4ac1-9420-b34ba0715516.png)
+
+往下翻一点找到「general」
+
+<img width="541" alt="截屏2022-05-27 09 05 47" src="https://user-images.githubusercontent.com/105097954/170608267-0fe01230-9c3f-491f-a8ee-8247c7fbbf79.png">
+
+新建一行
+
+<img width="540" alt="截屏2022-05-27 09 06 50" src="https://user-images.githubusercontent.com/105097954/170608309-db593fde-c9c3-499d-b9fb-bdd1e0a2aba9.png">
+黏贴
+
