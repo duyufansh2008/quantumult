@@ -39,5 +39,9 @@
 新建一行
 
 <img width="540" alt="截屏2022-05-27 09 06 50" src="https://user-images.githubusercontent.com/105097954/170608309-db593fde-c9c3-499d-b9fb-bdd1e0a2aba9.png">
-黏贴
 
+黏贴resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+
+<img width="529" alt="截屏2022-05-27 09 24 04" src="https://user-images.githubusercontent.com/105097954/170609836-f40ed622-408b-48fa-98f2-b1da734a24ad.png">
+
+点击保存
