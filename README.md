@@ -1,7 +1,4 @@
 # quantumult
-白嫖基地！！！quantumult脚本收录，以及从零开始配置，一步步教。
-
-
 
 
 😁加我微信😁：13816632338，购买节点，Mac，Windows已激活软件，先到先得！
@@ -62,4 +59,11 @@
 你可以导入一些订阅节点了！🎉
 恭喜🎉🎉🎉
 
-➡️到此为止，你就可以正常使用quantumultx了。但是这样的quantumultx和小火箭一摸一样，可能速度会快一点（玄学警告）。想要进阶的，去其他地方吧，https://limbopro.com这家挺好，教程还可以，想折腾的去这里吧。
+➡️到此为止，你就可以正常使用quantumultx了。但是这样的quantumultx和小火箭一摸一样，可能速度会快一点（玄学警告）。想要进阶的，去其他地方吧，https://limbopro.com 这家挺好，教程还可以，想折腾的去这里吧。我也建议几个好用的脚本。
+建议脚本
+资源解析器：https://github.com/KOP-XIAO/QuantumultX
+去广告：https://github.com/limbopro/Adblock4limbo
+https://github.com/NobyDa/Script/tree/master
+https://github.com/NobyDa/ND-AD
+https://github.com/DivineEngine/Profiles/tree/master
+签到脚本：https://github.com/chavyleung/scripts
