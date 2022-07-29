@@ -63,9 +63,4 @@
 你可以导入一些订阅节点了！🎉
 恭喜🎉🎉🎉
 
-➡️到此为止，你就可以正常使用quantumultx了。但是这样的quantumultx和小火箭一摸一样，所以下面的教程会让quantumultx发展出他的能力！！！
-
-➡️进阶1.添加策略。
-找到下载
-
-<img width="531" alt="截屏2022-05-27 11 08 42" src="https://user-images.githubusercontent.com/105097954/170621599-3a94abb5-204b-4ea5-b14a-4e4576bfabba.png">
+➡️到此为止，你就可以正常使用quantumultx了。但是这样的quantumultx和小火箭一摸一样，可能速度会快一点（玄学警告）。想要进阶的，去其他地方吧，https://limbopro.com这家挺好，教程还可以，想折腾的去这里吧。
